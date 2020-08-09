@@ -1,0 +1,81 @@
+ 
+    #word{
+    float:left;
+    width:100%;
+	height:200px;  
+    }
+    
+    #myw{
+    font-weight: 10px;
+    color:maroon;
+    font-size: 30px;
+    padding-left: 50px;    
+    }
+    
+    #detailsdiv{
+    float:left;
+	width:50%;
+	height:500px;
+	margin:0px;
+	
+	}
+    
+    #pack{
+    float:left;
+	width:33%;
+	height:100px;
+	/*margin:5%;*/
+    padding-left:30%; 
+    /*padding-right:30%; */   
+    }
+
+    #heading{
+    font-family:myfont;
+    font-size:30px;
+    color: lightcoral; /*remove underline*/
+         
+    }
+    
+    
+     #pack2{
+    float:right;
+	width:33%;
+	height:100px;
+	/*margin:5%;*/
+    padding-left:30%; 
+    /*padding-right:30%; */   
+    }
+    
+    #pack1{
+    float:inherit;
+	width:33%;
+	height:100px;
+	/*margin:5%;*/
+    padding-left:50%; 
+    /*padding-right:30%; */   
+    }
+    
+    
+    
+    
+    #pic{
+        width="100%";
+        margin-left: 80px;
+        height: 500px;
+    }
+    
+    #im{
+        padding-left: 10%;
+        margin-left: auto;
+    }
+
+      #im2{
+    
+        margin-left:20px;
+    }
+    
+    #im1{
+        padding-left:40%;
+    }
+    
+  

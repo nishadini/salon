@@ -1,0 +1,101 @@
+
+        #branchdiv1{
+    float:left;
+    clear:both;
+	width:40%;
+	height:500px;
+	margin:0px;
+    }
+    
+    #branchdiv2{
+    float:left;
+	width:40%;
+	height:500px;
+	}
+    
+    #branchdiv3{
+    float:left;
+	width:33%;
+	height:500px;
+	margin:0px;
+	
+	}
+    
+    #branchdiv4{
+    float:left;
+	width:33%;
+	height:500px;
+	margin:0px;
+    }
+    
+    #branchdiv5{
+    float:left;
+	width:33%;
+	height:500px;
+	margin:0px;
+	}
+    
+     #m2{
+    float:left;
+	width:50%;
+	height:500px;
+	margin:0px;
+    }
+    
+    
+    
+    
+    .images{
+        width: 70%;
+        height:300px;
+        padding-left: 20px;
+    }
+    
+    .images2{
+        width: 100%;
+        height:300px;
+        padding-left: 20px;
+    }
+    
+    .images3{
+        width:40%;
+        height:300px;
+        padding-left: 20px;
+    }
+    
+    .images4{
+        width:100%;
+        height:300px;
+        padding-left: 20px;
+    }
+    
+    .him{
+        width:100%;
+        height:500px;
+        padding-left: 10px;
+    }
+    
+    #productname{
+        font-family:myfont;
+        font-size:40px;
+        color:darkslategray;
+    
+    }
+
+    #para{
+        font-size: 20px;
+        font-weight: bold;
+    }
+        pre{
+           font-size: 18px;
+        font-weight: bold; 
+        }
+     
+        #param{
+            font-size: 25px;
+            color:firebrick;
+            font-weight: bolder;
+        }
+
+    
+   

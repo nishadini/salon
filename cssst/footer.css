@@ -1,0 +1,14 @@
+ /*footer*/
+   #d11g{float:left;
+	  /*clear: both;*/
+	  width: 100%;
+	  height:75px;
+      margin-top:50px; 
+	  text-align: center;
+	  background-color:#FBE697;
+	  color: firebrick;
+	  justify-content: center;
+      display: flex;
+      font-size: 20px;
+    
+    }

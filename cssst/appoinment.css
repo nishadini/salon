@@ -1,0 +1,64 @@
+h1{
+
+    font-family: "Calibri Light";
+    text-align: center;
+    margin-top: 1%;
+    font-weight: bolder;
+
+}
+#tableAlign{
+        background-color:blanchedalmond;
+        width: 100%;
+        font-size: 20px;
+        padding-bottom: 50px;
+    }
+
+#acc{
+    padding-left: 200px;
+    align-items: center;
+    }
+
+.bg{
+    background-color: limegreen;
+    margin-left: 35%;
+    width: 30%;
+    padding: 10px;
+    margin-top: 2%;
+}
+
+.box {
+    background-color: yellowgreen;
+    height: 10%;
+    padding: 2%;
+}
+
+.pic{
+    width: 10%;
+    margin-left: 45%;
+}
+
+.button {
+height:40px;
+width: 100px;
+}
+
+.button2{
+width:200px;
+height:50px;
+}
+    
+    #para{
+        color: crimson;
+    }  
+
+#cl{
+    padding-top: 100px;
+    color: crimson;
+    font-weight: bold;
+}
+#cd{
+    padding-top: 100px;
+}
+
+
+    

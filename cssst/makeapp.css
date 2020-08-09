@@ -1,0 +1,82 @@
+ #word{
+    float:left;
+    width:100%;
+	height:200px;  
+    }
+    
+     #myw{
+    font-weight: 10px;
+    color:maroon;
+    font-size: 30px;
+    padding-left: 50px;    
+    }
+     #myw2{
+    font-weight: 10px;
+    color:maroon;
+    font-size: 30px;
+    
+    }
+    
+     .tableAlign{
+    margin-left: 10%;
+    margin-top: 1%;
+    font-family: "Calibri Light";
+    font-size: 25px;    
+}
+    
+    .tableAlign1{
+    margin-left: 10%;
+    margin-top: 1%;
+     
+  
+}
+
+.bg{
+    background-color: papayawhip;
+    margin-left: 25%;
+    width: 50%;
+    padding: 10px;
+    margin-top: 2%;
+}
+
+.box {
+    background-color: peachpuff;
+    height: 10%;
+    padding: 2%;
+}
+
+.pic{
+    width: 10%;
+    margin-left: 45%;
+}
+input, select{
+    padding: 5%;
+    width: 100%;
+}
+    
+    .button2{
+width:150px;
+height:40px;
+color: crimson ;       
+font-weight: bold;
+}
+    
+ 
+    #log{
+            margin-left: 25%;
+    width: 50%;
+    padding: 10px;
+    margin-top: 2%;
+}
+    } 
+    
+    #main{
+        width:100%
+       /* padding-left: 50px;*/
+    }
+    
+    #Username{
+        width:2cm;
+        
+    }
+    

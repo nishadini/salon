@@ -1,0 +1,25 @@
+  type{
+    width:600px;
+    height:400px;
+    float: left;   
+    }
+    
+   
+    #h1{
+        color: crimson;
+        font-size: 50px;
+        padding-left: 100px;
+    }
+    
+    #im{
+        padding-left: 100px;
+    }
+    
+    h{
+        height: 400px;
+    }
+    
+    #des{
+        font-size:20px; 
+        padding-left: 100px;
+    }
